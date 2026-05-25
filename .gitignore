@@ -1,0 +1,6 @@
+external/
+captures/
+__pycache__/
+*.pyc
+*.log
+.mitmproxy/
